@@ -15,7 +15,7 @@
     "native-echarts": "^0.5.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
-    "react-native": "./react-native-sdk-36.0.0.tar.gz",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
     "react-native-chinamap": "^1.0.3",
     "react-native-echarts-map": "^0.0.1",
     "react-native-echarts-wrapper": "^2.0.0",
